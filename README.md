@@ -19,9 +19,9 @@ Apple AirPods constitute a significant portion of Somico's orders, accounting fo
 ![image](https://github.com/user-attachments/assets/766c038d-61c5-4a69-b0f4-4eb11849792d)
 
 ## Loyalty Program
-body text
-body text 
-body text
+The loyalty program could serve as an effective way to maintain some of the growth value gained during the boom of 2020. Customers began to adopt the platform in significant numbers starting in early 2021, after its rollout in 2019. By 2021, loyalty customers comprised a larger share of sales and orders compared to non-loyalty customers. Additionally, by 2022, the average order value (AOV) for loyalty customers also surpassed that of non-loyalty customers. 
+
+In direct marketing, the highest number of program sign-ups reached 23,500, resulting in a 40% sign-up rate. Email marketing has proven to be particularly effective, with the highest average sign-up rate of 59%. Analyzing the loyalty program and understanding what consumers value and enjoy most will provide Somico with insights on how to expand and enhance the program.
 
 ![image](https://github.com/user-attachments/assets/86610b89-d7b1-4f58-9b5a-57c2d6c39ef9)
 
