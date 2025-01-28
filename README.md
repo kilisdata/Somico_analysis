@@ -13,12 +13,12 @@ Every year, Somico experiences a surge in holiday sales during November (18% inc
 
 ![image](https://github.com/user-attachments/assets/14344633-9bfa-4a44-bc30-748df1e0d33d)
 
-## Product Trends
+### Product Trends
 Apple AirPods constitute a significant portion of Somico's orders, accounting for 45% (over 45,000 units). The company's highest revenue generator is the 27-inch 4K Gaming Monitor, which contributes nearly $10 million, representing 35% of total sales. When combined, the MacBook Air and ThinkPad laptops are estimated to generate 96% of revenue alongside the Gaming Monitors and AirPods. To strengthen its market presence, Somico should prioritize marketing these four key products—AirPods, the Gaming Monitor, MacBook Air, and ThinkPad—over its other offerings.
 
 ![image](https://github.com/user-attachments/assets/766c038d-61c5-4a69-b0f4-4eb11849792d)
 
-## Loyalty Program
+### Loyalty Program
 The loyalty program could serve as an effective way to maintain some of the growth value gained during the boom of 2020. Customers began to adopt the platform in significant numbers starting in early 2021, after its rollout in 2019. By 2021, loyalty customers comprised a larger share of sales and orders compared to non-loyalty customers. Additionally, by 2022, the average order value (AOV) for loyalty customers also surpassed that of non-loyalty customers. 
 
 In direct marketing, the highest number of program sign-ups reached 23,500, resulting in a 40% sign-up rate. Email marketing has proven to be particularly effective, with the highest average sign-up rate of 59%. Analyzing the loyalty program and understanding what consumers value and enjoy most will provide Somico with insights on how to expand and enhance the program.
