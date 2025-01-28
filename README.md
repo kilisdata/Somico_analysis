@@ -1,4 +1,6 @@
 # Overview
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/5b4cd34a-3b91-4f17-acee-0261e155811a" />
+
 Founded in 2018, Somico launched its mobile app and website to sell popular electronic products worldwide. The company has gathered a significant amount of data that has not been fully utilized to maximize sales growth and marketing efficiency and enhance its product offerings and loyalty program. The purpose of this project is to thoroughly analyze and synthesize this data to uncover crucial insights that will improve Somico's commercial success in the future.
 
 # Deep-dive Insights
