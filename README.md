@@ -39,9 +39,6 @@ Founded in 2018, Somico launched its mobile app and website to sell popular elec
 ![image](https://github.com/user-attachments/assets/14344633-9bfa-4a44-bc30-748df1e0d33d)
 
 ### Product Trends
-Here’s a more descriptive version of the bullet points:  
-
-Here’s the paragraph reformatted into descriptive bullet points:
 
 - **Apple AirPods**:
   - Make up 45% of Somico's orders.
@@ -61,26 +58,25 @@ Here’s the paragraph reformatted into descriptive bullet points:
 ![image](https://github.com/user-attachments/assets/766c038d-61c5-4a69-b0f4-4eb11849792d)
 
 ### Loyalty Program
-Of course! Here’s a more descriptive version of the bullet points:
 
 - **Loyalty Program’s Role in Growth**:
   - The loyalty program has the potential to help Somico maintain the growth achieved during the 2020 boom.
   - Significant customer adoption of the platform began in early 2021, following its initial rollout in 2019, marking a key milestone in user engagement.
 
 - **Impact on Customer Behavior**:
-  - By 2021, **loyalty customers**—those who enrolled in the program—represented a **larger share** of total sales and orders compared to **non-loyalty customers**, highlighting the program’s positive influence on customer retention and purchasing patterns.
-  - By 2022, loyalty customers also demonstrated a **higher Average Order Value (AOV)**, spending more per order than non-loyalty customers, indicating the program’s effectiveness in encouraging more valuable purchases.
+  - By 2021, loyalty customers—those who enrolled in the program—represented a larger share of total sales and orders compared to non-loyalty customers, highlighting the program’s positive influence on customer retention and purchasing patterns.
+  - By 2022, loyalty customers also demonstrated a higher Average Order Value (AOV), spending more per order than non-loyalty customers, indicating the program’s effectiveness in encouraging more valuable purchases.
 
 - **Direct Marketing and Customer Engagement**:
-  - In direct marketing campaigns, the highest number of **program sign-ups** reached an impressive **23,500** customers, indicating strong interest in the loyalty program.
-  - This resulted in an overall **sign-up rate of 40%**, showcasing a solid conversion rate from interested prospects to active program participants.
+  - In direct marketing campaigns, the highest number of program sign-ups reached an impressive 23,500 customers, indicating strong interest in the loyalty program.
+  - This resulted in an overall sign-up rate of 40%, showcasing a solid conversion rate from interested prospects to active program participants.
 
 - **Email Marketing’s Success**:
-  - **Email marketing** proved to be the most effective channel for sign-ups, boasting an outstanding **average sign-up rate of 59%**, suggesting that targeted email campaigns resonate particularly well with customers.
+  - Email marketing proved to be the most effective channel for sign-ups, boasting an outstanding average sign-up rate of 59%, suggesting that targeted email campaigns resonate particularly well with customers.
 
 - **Recommendation for Program Enhancement**:
-  - To build on this success, Somico should analyze the **specific preferences** and behaviors of loyalty customers to understand what aspects of the program they value most.
-  - Gaining these insights will help Somico make informed decisions about **expanding** and **enhancing** the program, ensuring it continues to meet customer needs and drives long-term growth.
+  - To build on this success, Somico should analyze the specific preferences and behaviors of loyalty customers to understand what aspects of the program they value most.
+  - Gaining these insights will help Somico make informed decisions about expanding and enhancing the program, ensuring it continues to meet customer needs and drives long-term growth.
 
 ![image](https://github.com/user-attachments/assets/86610b89-d7b1-4f58-9b5a-57c2d6c39ef9)
 
