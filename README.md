@@ -6,24 +6,46 @@ Founded in 2018, Somico launched its mobile app and website to sell popular elec
 # Deep-dive Insights
 
 ### Sales Trends
-Between 2019 and 2022, we received 108,000 orders and generated $28 million in revenue, both of which increased by 28%. In 2020, sales surged by more than $6 million during the onset of the pandemic as consumer purchasing patterns shifted sharply toward online shopping. However, despite this growth, sales declined by 46% in 2021 and 2022, alongside a 10% decrease in average order value and a 40% drop in order count. To achieve sustainable long-term growth, it is essential to find ways to maintain the value captured during 2020 and 2021. 
+- **Overall Growth (2019-2022):** Somico received **108,000 orders** and generated **$28 million in revenue**, both reflecting a **28% increase** over the period.  
+
+- **Pandemic-Driven Surge (2020):** Sales rose by **over $6 million** due to a sharp shift in consumer behavior toward online shopping during the pandemic.  
+
+- **Post-Boom Decline (2021-2022):** Despite previous growth, sales dropped **by 46%**, accompanied by a **10% decrease in average order value** and a **40% decline in order count**, signaling reduced demand and retention.  
+
+- **Need for Sustainable Growth:** To ensure long-term stability, Somico must develop strategies to **retain and build upon the gains made in 2020 and 2021**, adapting to evolving market conditions.
 
 ![image](https://github.com/user-attachments/assets/e601df74-ab20-4744-b065-c4a9a5859a76) 
 
 ### Seasonality
-Every year, Somico experiences a surge in holiday sales during November (18% increase) and December (23% increase). Additionally, sales see a rebound in March, rising by approximately 18% month-over-month, following sharp declines in February. February and October are the weakest months for sales, with an average decrease of 27%. The sales trends at Somico align with common seasonal patterns observed in electronics companies, while also reflecting consumer behavior. Customers often think that the best deals appear during the holiday season. Consequently, shoppers in October may be waiting for the "deal season" to start in November or are searching for deals elsewhere.
+- **Holiday Sales Surge:** Every year, Somico experiences a significant increase in sales during November (**18% increase**) and December (**23% increase**). This growth aligns with the holiday shopping season when consumer spending peaks.  
+
+- **March Sales Rebound:** After a sharp decline in February, sales typically rebound in March, rising by approximately **18% month-over-month**, indicating a recovery from seasonal slowdowns.  
+
+- **Weakest Sales Months:** February and October are the slowest months for Somico, with an **average sales decrease of 27%**. These declines suggest a period of lower consumer spending before major shopping events.  
+
+- **Seasonal Shopping Patterns:** Somico’s sales trends reflect broader industry patterns in electronics, where consumers anticipate **holiday discounts**. Many shoppers in October may delay purchases, expecting better deals in November, or they might be searching for discounts from other retailers.
 
 ![image](https://github.com/user-attachments/assets/14344633-9bfa-4a44-bc30-748df1e0d33d)
 
 ### Product Trends
-Apple AirPods constitute a significant portion of Somico's orders, accounting for 45% (over 45,000 units). The company's highest revenue generator is the 27-inch 4K Gaming Monitor, which contributes nearly $10 million, representing 35% of total sales. When combined, the MacBook Air and ThinkPad laptops are estimated to generate 96% of revenue alongside the Gaming Monitors and AirPods. To strengthen its market presence, Somico should prioritize marketing these four key products—AirPods, the Gaming Monitor, MacBook Air, and ThinkPad—over its other offerings.
+- **AirPods Sales Impact:** Apple AirPods represent a **significant share of Somico’s orders**, accounting for **45% of total units sold** (over 45,000 units).  
+
+- **Top Revenue Generator:** The **27-inch 4K Gaming Monitor** is the company’s highest revenue-driving product, contributing nearly **$10 million**, which makes up **35% of total sales**.  
+
+- **Key Revenue Contributors:** When combined, the **MacBook Air, ThinkPad laptops, Gaming Monitor, and AirPods** generate **96% of Somico’s total revenue**, highlighting their dominance in the company’s sales portfolio.  
+
+- **Strategic Focus:** To enhance market presence and maximize profitability, Somico should **prioritize marketing efforts on these four key products** over other offerings, ensuring sustained demand and customer engagement.
 
 ![image](https://github.com/user-attachments/assets/766c038d-61c5-4a69-b0f4-4eb11849792d)
 
 ### Loyalty Program
-The loyalty program could serve as an effective way to maintain some of the growth value gained during the boom of 2020. Customers began to adopt the platform in significant numbers starting in early 2021, after its rollout in 2019. By 2021, loyalty customers comprised a larger share of sales and orders compared to non-loyalty customers. Additionally, by 2022, the average order value (AOV) for loyalty customers also surpass that of non-loyalty customers.
+- **Loyalty Program Growth:** Initially launched in **2019**, the loyalty program saw significant adoption starting in **early 2021**, helping maintain some of the growth momentum gained during the **2020 boom**.  
 
-In direct marketing, the highest number of program sign-ups reached 23,500, resulting in a 40% sign-up rate. Email marketing has proven to be particularly effective, with the highest average sign-up rate of 59%. Analyzing the loyalty program and understanding what consumers value and enjoy most will provide Somico with insights on how to expand and enhance the program.
+- **Impact on Sales:** By **2021**, loyalty customers accounted for a **larger share of sales and orders** compared to non-loyalty customers. By **2022**, their **average order value (AOV) surpassed that of non-loyalty customers**, highlighting the program’s effectiveness in driving higher spending.  
+
+- **Marketing Success:** Direct marketing efforts led to **23,500 sign-ups**, achieving a **40% sign-up rate**. Email marketing proved even more effective, with an average **sign-up rate of 59%**, making it a key channel for program expansion.  
+
+- **Strategic Opportunity:** By analyzing the loyalty program and understanding what customers value most, Somico can refine and **enhance the program** to strengthen customer retention, increase engagement, and sustain long-term growth.
 
 
 ![image](https://github.com/user-attachments/assets/86610b89-d7b1-4f58-9b5a-57c2d6c39ef9)
