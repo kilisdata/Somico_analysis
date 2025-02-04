@@ -52,4 +52,18 @@ Founded in 2018, Somico launched its mobile app and website to sell popular elec
 
 
 # Recommendations
+### Product performance
+96% of current sales come from products in these categories. 
+- Wireless Headphones
+- Gaming monitors
+- Lightweight Laptops
 
+Somico should consider expanding its product catalog to include similar in-class products. This expansion will likely lead to increased sales and improved brand recognition.
+
+### Loyalty Program
+It is necessary to note and monitor a cause for concern for a set period of time before decisions are made.
+- Between September and December '22, non-loyalty customer sales, average order value, and order count were higher than loyalty customer metrics. It is the first time since December 2020 that non-loyalty customers have outnumbered loyalty customers by order count.
+
+Somico should reduce affiliate marketing efforts and focus on direct and email marketing as a result of this concerning trend in the loyalty program. Listed below are the channels that have generated the most signups and had the highest signup rates:
+- Direct Marketing Channel: 40% signup rate | 23.5K signups
+- Email Marketing Channel: 59% signup rate | 8K signups
